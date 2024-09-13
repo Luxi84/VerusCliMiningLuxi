@@ -18,7 +18,7 @@ wget https://raw.githubusercontent.com/TheRetroMike/VerusCliMining/main/config.j
 chmod +x ~/ccminer/ccminer
 
 cat << EOF > ~/ccminer/start.sh
-#!/bin/sh
+#!/bin/bash
 ~/ccminer/ccminer -c ~/ccminer/config.json
 EOF
 chmod +x start.sh
