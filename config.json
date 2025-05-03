@@ -1,7 +1,7 @@
 {
 	"pools":[
 	{
-		"name": "WattPool",
+		"name": "VerusFarm",
         	"url": "stratum+tcp:///verus.farm:9999",
 		"timeout": 150
 	},
