@@ -2,11 +2,11 @@
 	"pools":[
 	{
 		"name": "WattPool",
-        	"url": "stratum+tcp:///verus.wattpool.net:1232",
+        	"url": "stratum+tcp:///verus.farm:9999",
 		"timeout": 150
 	},
 	],
-	"user": "RWM6hEp6kHHhjhnTpzduns3E62yCRpkwCY.RedmiA3",
+	"user": "RWM6hEp6kHHhjhnTpzduns3E62yCRpkwCY.Redmi5Plus",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
